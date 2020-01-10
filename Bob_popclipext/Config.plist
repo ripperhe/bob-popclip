@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>AppleScript File</key>
+			<string>Bob.applescript</string>
+			<key>Image File</key>
+			<string>Bob.png</string>
+			<key>Title</key>
+			<string>Bob Translate</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Bundle Identifier</key>
+			<string>com.ripperhe.Bob</string>
+			<key>Check Installed</key>
+			<true/>
+			<key>Link</key>
+			<string>https://github.com/ripperhe/Bob</string>
+			<key>Name</key>
+			<string>Bob</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>https://github.com/ripperhe</string>
+			<key>Name</key>
+			<string>ripperhe</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Translate a text.</string>
+	<key>Extension Identifier</key>
+	<string>com.ripperhe.Bob.popclip</string>
+	<key>Extension Image File</key>
+	<string>Bob.png</string>
+	<key>Extension Name</key>
+	<string>Bob v1.0</string>
+	<key>Required OS Version	</key>
+	<string>10.12</string>
+</dict>
+</plist>
