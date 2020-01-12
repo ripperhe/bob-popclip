@@ -1,6 +1,6 @@
 # Bob PopClip Extension
 
-如果你是 [Bob](https://github.com/ripperhe/Bob) 的用户，并且期望划词之后鼠标附近一个小图标，点击之后即可翻译选中的文本，则你的电脑上需要安装 [PopClip](https://pilotmoon.com/popclip/)，并且给 PopClip 安装调用 Bob 的插件
+如果你是 [Bob](https://github.com/ripperhe/Bob) 的用户，并且期望划词之后鼠标附近出现一个小图标，点击之后即可翻译选中的文本，则你的电脑上需要安装 [PopClip](https://pilotmoon.com/popclip/)，并且给 PopClip 安装调用 Bob 的插件
 
 注意：Bob 从 `0.3.0` 版本开始支持本插件
 
