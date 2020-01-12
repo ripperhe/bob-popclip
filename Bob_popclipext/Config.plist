@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Translate a text.</string>
+	<string>Translate text with Bob.</string>
 	<key>Extension Identifier</key>
-	<string>com.ripperhe.Bob.popclip</string>
+	<string>com.ripperhe.popclip.extension.Bob</string>
 	<key>Extension Image File</key>
 	<string>Bob.png</string>
 	<key>Extension Name</key>
