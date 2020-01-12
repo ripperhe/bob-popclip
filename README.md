@@ -16,6 +16,8 @@ PopClip 安装完成之后，在 [GitHub Release](https://github.com/ripperhe/Bo
 
 将 PopClip 开启，选中一段文本之后会在鼠标附近出现一个菜单（具体显示什么根据你所安装的插件而定），此时点击 Bob 插件图标即可翻译
 
+![bob-popclip](https://raw.githubusercontent.com/ripperhe/Resource/master/20200112/bob-popclip.gif)
+
 ## 几点建议
 
 1. 如果 PopClip 只是用于调用 Bob 的话，建议在插件页面将其他插件全部关闭
