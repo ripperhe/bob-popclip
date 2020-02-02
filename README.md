@@ -32,3 +32,13 @@ PopClip 安装完成之后，在 [GitHub Release](https://github.com/ripperhe/Bo
 3. 如果想要在某些 App 不展示菜单，可以在排除页面加上对应 App
 	
 	<img src="https://raw.githubusercontent.com/ripperhe/oss/master/2020/0202/popclip-shield-app.png" alt="popclip-shield-app" width="250" />
+	
+## 赞赏
+
+如果想请我喝咖啡的话，可以微信扫描下方赞赏码哦~ 😘
+
+[赞赏列表](https://github.com/ripperhe/Bob/blob/master/RewardList.md)
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/ripperhe/Resource/master/202015/ripper_wechat.JPG" width="250" />
+</p>
