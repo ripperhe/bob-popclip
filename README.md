@@ -40,5 +40,5 @@ PopClip 安装完成之后，在 [GitHub Release](https://github.com/ripperhe/Bo
 [赞赏列表](https://github.com/ripperhe/Bob/blob/master/RewardList.md)
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ripperhe/Resource/master/202015/ripper_wechat.JPG" width="250" />
+	<img src="https://raw.githubusercontent.com/ripperhe/oss/master/2020/0105/ripper_wechat.JPG" width="250" />
 </p>
