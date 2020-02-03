@@ -35,7 +35,7 @@ PopClip 安装完成之后，在 [GitHub Release](https://github.com/ripperhe/Bo
 	
 ## 赞赏
 
-如果想请我喝咖啡的话，可以微信扫描下方赞赏码哦~ 😘
+如果想请我喝咖啡，可以微信扫描下方赞赏码哦~ 😘
 
 [赞赏列表](https://github.com/ripperhe/Bob/blob/master/RewardList.md)
 
