@@ -14,10 +14,12 @@
 
 ### 安装插件
 
-PopClip 安装完成之后，在 [GitHub Release](https://github.com/ripperhe/Bob-PopClip/releases) 下载最新版的 `Bob.popclipextz`，然后双击，即可将本插件安装到 PopClip
+PopClip 插件项目地址: <https://github.com/ripperhe/Bob-PopClip>
 
-如果在 PopClip 的插件页面出现以下图示即代表安装成功
-
+* 下载插件 `Bob.popclipextz` [点此下载 ⬇](https://cdn.jsdelivr.net/gh/ripperhe/Bob-Popclip@master/extension/Bob.popclipextz)
+* 插件下载完成后，**双击插件**
+* 如果在 PopClip 的插件页面出现以下图示即代表安装成功
+	
 <img src="https://cdn.jsdelivr.net/gh/ripperhe/oss@master/2020/0202/popclip-install-bob.png" alt="popclip-install-bob" width="250" />
 
 ## 如何使用
