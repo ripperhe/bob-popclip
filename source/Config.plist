@@ -13,24 +13,11 @@
 			<string>Bob Translate</string>
 		</dict>
 	</array>
-	<key>Apps</key>
-	<array>
-		<dict>
-			<key>Bundle Identifier</key>
-			<string>com.ripperhe.Bob</string>
-			<key>Check Installed</key>
-			<true/>
-			<key>Link</key>
-			<string>https://github.com/ripperhe/Bob</string>
-			<key>Name</key>
-			<string>Bob</string>
-		</dict>
-	</array>
 	<key>Credits</key>
 	<array>
 		<dict>
 			<key>Link</key>
-			<string>https://github.com/ripperhe</string>
+			<string>https://bobtranslate.com/</string>
 			<key>Name</key>
 			<string>ripperhe</string>
 		</dict>
@@ -42,8 +29,8 @@
 	<key>Extension Image File</key>
 	<string>Bob.png</string>
 	<key>Extension Name</key>
-	<string>Bob v1.0</string>
+	<string>Bob v2</string>
 	<key>Required OS Version	</key>
-	<string>10.12</string>
+	<string>10.13</string>
 </dict>
 </plist>
