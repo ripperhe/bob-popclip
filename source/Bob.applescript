@@ -1,4 +1,4 @@
 tell application "Bob"
 	launch
-	translate "{popclip text}"
+	translate "{popclip full text}"
 end tell
