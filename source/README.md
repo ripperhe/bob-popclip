@@ -1,6 +1,8 @@
 # Bob PopClip Extension
 
-A PopClip extension for [Bob](https://bobtranslate.com), a translation and OCR app for macOS. Select text, click the icon, and Bob translates it.
+[Bob](https://bobtranslate.com) is a translation and OCR app for macOS.
+
+This extension lets you translate selected text with Bob directly from PopClip — select any text, click the Bob icon in the PopClip popup, and Bob translates it instantly.
 
 ## Links
 
@@ -11,7 +13,9 @@ A PopClip extension for [Bob](https://bobtranslate.com), a translation and OCR a
 
 # Bob PopClip 插件
 
-本插件用于快捷调用 [Bob](https://bobtranslate.com)（一款 macOS 上的翻译与 OCR 软件），选中文本后点击插件图标即可翻译。
+[Bob](https://bobtranslate.com) 是一款 macOS 翻译与 OCR 软件。
+
+本插件让你直接通过 PopClip 用 Bob 翻译选中的文本 —— 选中文本后点击 PopClip 菜单里的 Bob 图标，Bob 会立即翻译。
 
 ## 链接
 
@@ -22,6 +26,7 @@ A PopClip extension for [Bob](https://bobtranslate.com), a translation and OCR a
 
 ## Changelog
 
+- 2026-05-10 (v5): Improve README readability and add this changelog.
 - 2026-05-10 (v4): Use `{popclip full text}` to preserve line breaks and formatting.
 - 2024-05-22 (v3): Added to the PopClip Extensions Directory; switched config from plist to json; added `popclipVersion` and `app` fields.
 - 2022-07-03 (v1, v2): Initial release.
