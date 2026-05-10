@@ -17,3 +17,11 @@ A PopClip extension for [Bob](https://bobtranslate.com), a translation and OCR a
 
 * Bob 官网：<https://bobtranslate.com>
 * 使用说明：<https://bobtranslate.com/guide/integration/popclip.html>
+
+---
+
+## Changelog
+
+- 2026-05-10 (v4): Use `{popclip full text}` to preserve line breaks and formatting.
+- 2024-05-22 (v3): Added to the PopClip Extensions Directory; switched config from plist to json; added `popclipVersion` and `app` fields.
+- 2022-07-03 (v1, v2): Initial release.
